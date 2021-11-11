@@ -1,4 +1,4 @@
-# 2D-Visualisation-Methods-for-3D-Genome-Data
+# 2D Visualisation Methods for 3D Genome Data
 
 The R code provided here was used to generate synthetic 3D models, create 3D visualisations of either synthetic or genomic 3D data sets and visualise the 3D data sets in 2D using either multidimensional scaling (MDS) or Sammon mapping. 
 
